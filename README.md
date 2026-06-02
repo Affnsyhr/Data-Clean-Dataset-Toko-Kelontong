@@ -134,6 +134,7 @@ streamlit run app.py
 * Pandas
 * OpenPyXL
 * XlsxWriter
+* Plotly
 
 ---
 

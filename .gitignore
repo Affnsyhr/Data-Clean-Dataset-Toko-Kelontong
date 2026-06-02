@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Output files
+*.csv
+*.xlsx
+
+# VS Code
+.vscode/

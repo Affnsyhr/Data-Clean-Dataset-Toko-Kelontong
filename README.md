@@ -6,7 +6,7 @@ Aplikasi berbasis Streamlit untuk melakukan pembersihan (cleaning), transformasi
 
 ## 📌 Deskripsi
 
-Aplikasi ini dikembangkan untuk membantu proses pengolahan data penjualan Toko Cahaya LKZ periode 2022–2025. Sistem dapat membaca file Excel mentah hasil ekspor dari sistem kasir toko, kemudian melakukan cleaning dan kategorisasi produk secara otomatis.
+Aplikasi ini dikembangkan untuk membantu proses pengolahan data penjualan Toko Cahaya LKZ periode yang akan mendatang. Sistem dapat membaca file Excel mentah hasil ekspor dari sistem kasir toko, kemudian melakukan cleaning dan kategorisasi produk secara otomatis.
 
 Hasil akhir berupa dataset bersih yang siap digunakan untuk analisis data dan pembuatan dashboard di Looker Studio.
 
